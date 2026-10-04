@@ -63,10 +63,3 @@
 <br>
 <img width="431" height="337" alt="Screenshot 2026-10-03 212104" src="https://github.com/user-attachments/assets/dc7505b3-f297-40c1-b0fb-8d85b190fbdb" />
 
-### Menu Admin
-
-<img width="309" height="115" alt="image" src="https://github.com/user-attachments/assets/3650cc43-7ac1-403a-b160-080603c829f9" />
-
-### Menu User
-
-<img width="322" height="60" alt="image" src="https://github.com/user-attachments/assets/44d17315-dc9d-4b64-9582-c3c7439ef535" />
