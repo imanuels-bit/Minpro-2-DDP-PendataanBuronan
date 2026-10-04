@@ -1,4 +1,4 @@
-<img width="1709" height="1090" alt="flowchart buronan" src="https://github.com/user-attachments/assets/bae141ed-54bd-45c2-aa94-45c0e892d814" /># Sistem Pencatatan Buronan Kepolisian
+# Sistem Pencatatan Buronan Kepolisian
 * Program Python sederhana untuk mengelola data buronan menggunakan list yang berisi tuple sebagai tempat penyimpanan sementara, dengan menu pilihan berulang (while loop) dan validasi input di setiap prosesnya, Program hanya bisa dipakai setelah login, dan menu yang muncul menyesuaikan role akun yang masuk
 
 ## Fitur
