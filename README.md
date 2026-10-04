@@ -41,7 +41,9 @@
 **Data hanya tersimpan selama program berjalan. Setelah program ditutup, semua data yang sudah ditambahkan akan hilang. Karena itu, user hanya bisa melihat data yang sudah diisi admin pada sesi yang sama**
 
 ## Flowchart
-<img width="1709" height="1090" alt="flowchart_buronan (1) drawio" src="https://github.com/user-attachments/assets/2baac377-1b8b-4482-8c38-a4eb5f5c8ca8" />
+<img width="1709" height="1090" alt="flowchart_buronan (1) drawio" src="https://github.com/user-attachments/assets/6a1c5ffb-8abb-40f3-80f5-9aa94ab676f6" />
+
+
 
 ## Contoh Output
 
@@ -49,9 +51,6 @@
 <img width="363" height="192" alt="Screenshot 2026-10-03 211811" src="https://github.com/user-attachments/assets/a86a6f6d-504e-4109-8f1a-5b3bb719bf4f" />
 <img width="431" height="337" alt="Screenshot 2026-10-03 212104" src="https://github.com/user-attachments/assets/dc7505b3-f297-40c1-b0fb-8d85b190fbdb" />
 
-<img width="431" height="188" alt="Screenshot 2026-10-03 212201" src="https://github.com/user-attachments/assets/90173867-ae86-4401-854a-a359cbca9000" />
 
-
-### Menu User
 
 <!-- tempel screenshot menu user dan tampilan data -->
