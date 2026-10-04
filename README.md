@@ -7,7 +7,8 @@
 
 - Jika username atau password salah, program menampilkan hitungan mundur 5 detik (`time.sleep`) sebelum login bisa diulang <img width="385" height="100" alt="image" src="https://github.com/user-attachments/assets/f08fe5dd-e2fa-4384-8d0c-44c664cbe87e" />
 
-- Terdapat 2 role dengan hak akses berbeda, yaitu admin dan user <img width="316" height="86" alt="image" src="https://github.com/user-attachments/assets/893ee307-1248-43cd-99ed-0d0f597dc4b0" />
+- Terdapat 2 role dengan hak akses berbeda, yaitu admin dan user<img width="316" height="86" alt="image" src="https://github.com/user-attachments/assets/893ee307-1248-43cd-99ed-0d0f597dc4b0" />
+
 
 - Admin dapat menambah, menampilkan, mengubah, dan menghapus data buronan 
 - User hanya dapat menampilkan data buronan 
